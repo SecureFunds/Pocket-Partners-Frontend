@@ -1,6 +1,6 @@
 {
     "pageNotFound": {
-        "title": "Pagina no encontrada",
+        "title": "Error 404 Pagina no encontrada",
         "message": "La página {{page}} que busca no existe.",
         "redirect": "Redirigir en",
         "button": "Volver a la página de inicio"
